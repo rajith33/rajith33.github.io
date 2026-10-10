@@ -1,0 +1,522 @@
+[
+  {
+    "slug": "classic-sri-lanka-discovery",
+    "title": "Classic Sri Lanka Discovery",
+    "duration": "8 Days / 7 Nights",
+    "price": "From US$ 890",
+    "category": "Classic Discovery",
+    "hero": "sigiriya.jpeg",
+    "description": "A refined first journey through Sri Lanka, blending ancient heritage, sacred Kandy, misty tea country, Ella, wildlife and the southern coast.",
+    "highlights": [
+      "Sigiriya Rock Fortress",
+      "Dambulla Cave Temple",
+      "Temple of the Sacred Tooth",
+      "Scenic hill-country train",
+      "Ella & Nine Arch Bridge",
+      "Yala wildlife safari",
+      "Galle Fort"
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle",
+      "English-speaking driver-guide",
+      "7 nights accommodation with breakfast",
+      "Airport arrival & departure transfers",
+      "Scenic train tickets subject to availability",
+      "Yala safari jeep"
+    ],
+    "exclusions": [
+      "International flights",
+      "Entrance tickets unless specified",
+      "Lunches and dinners unless stated",
+      "Travel insurance",
+      "Personal expenses and gratuities"
+    ],
+    "route": [
+      "Colombo",
+      "Dambulla",
+      "Sigiriya",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "Galle",
+      "Colombo / Airport"
+    ],
+    "days": [
+      [
+        "01",
+        "Airport → Sigiriya",
+        "Meet your private driver-guide and travel into the Cultural Triangle. Visit Dambulla Cave Temple before settling into the Sigiriya area.",
+        "dall1.jpeg"
+      ],
+      [
+        "02",
+        "Sigiriya Rock & village experience",
+        "Climb the iconic rock fortress in the cooler morning hours, then slow down with a countryside village experience.",
+        "sigiriya.jpeg"
+      ],
+      [
+        "03",
+        "Sigiriya → Kandy",
+        "Continue through the island's cultural heartland to Kandy and visit the Temple of the Sacred Tooth.",
+        "kandy.jpg"
+      ],
+      [
+        "04",
+        "Kandy → Ella by scenic train",
+        "Travel through emerald tea country on the celebrated hill-country railway and arrive in Ella.",
+        "ella2.jpeg"
+      ],
+      [
+        "05",
+        "Ella highlights",
+        "Discover Nine Arch Bridge, Little Adam's Peak and the relaxed mountain atmosphere.",
+        "high.jpeg"
+      ],
+      [
+        "06",
+        "Ella → Yala",
+        "Descend toward the south-east and enter the wildlife region around Yala.",
+        "safari.jpg"
+      ],
+      [
+        "07",
+        "Yala → Galle",
+        "Enjoy a safari experience, then continue to the southern coast and historic Galle Fort.",
+        "gallefort.jpeg"
+      ],
+      [
+        "08",
+        "South Coast → Airport",
+        "Enjoy a final coastal morning before your private airport transfer.",
+        "airport.jpeg"
+      ]
+    ]
+  },
+  {
+    "slug": "cultural-triangle",
+    "title": "Cultural Triangle & Ancient Kingdoms",
+    "duration": "6 Days / 5 Nights",
+    "price": "From US$ 690",
+    "category": "Culture",
+    "hero": "sigiriya.jpeg",
+    "description": "A heritage-focused journey through Sri Lanka's ancient capitals, sacred caves, monumental ruins and the royal city of Kandy.",
+    "highlights": [
+      "Sigiriya Rock Fortress",
+      "Dambulla Cave Temple",
+      "Polonnaruwa ancient city",
+      "Kandy Temple of the Tooth",
+      "Royal Botanical Gardens",
+      "Local culture & crafts"
+    ],
+    "inclusions": [
+      "Private air-conditioned transport",
+      "English-speaking driver-guide",
+      "5 nights accommodation with breakfast",
+      "Airport transfers",
+      "Sightseeing listed in itinerary"
+    ],
+    "exclusions": [
+      "International flights",
+      "Entrance fees",
+      "Meals not listed",
+      "Travel insurance",
+      "Personal expenses"
+    ],
+    "route": [
+      "Colombo / Airport",
+      "Dambulla",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Kandy",
+      "Colombo"
+    ],
+    "days": [
+      [
+        "01",
+        "Colombo → Dambulla → Sigiriya",
+        "Travel inland and visit the historic Dambulla Cave Temple before continuing to Sigiriya.",
+        "sig1.jpeg"
+      ],
+      [
+        "02",
+        "Sigiriya Rock Fortress",
+        "Explore the fifth-century rock citadel, gardens and frescoes, followed by a relaxed rural experience.",
+        "sigiriya.jpeg"
+      ],
+      [
+        "03",
+        "Polonnaruwa ancient city",
+        "Discover the medieval royal capital, ancient reservoirs and the remarkable Gal Vihara.",
+        "pom.jpeg"
+      ],
+      [
+        "04",
+        "Sigiriya → Kandy",
+        "Travel south through the central region and arrive in Kandy for its sacred heritage.",
+        "kandy.jpg"
+      ],
+      [
+        "05",
+        "Kandy heritage day",
+        "Visit the Temple of the Sacred Tooth, Kandy Lake and the Royal Botanical Gardens.",
+        "kandy.jpg"
+      ],
+      [
+        "06",
+        "Kandy → Colombo / Airport",
+        "Private transfer back to Colombo or the airport for your onward journey.",
+        "airp.jpg"
+      ]
+    ]
+  },
+  {
+    "slug": "tea-country-ella",
+    "title": "Tea Country & Ella Escape",
+    "duration": "5 Days / 4 Nights",
+    "price": "From US$ 590",
+    "category": "Mountains & Tea",
+    "hero": "ella.jpg",
+    "description": "A slower journey through Sri Lanka's cool central highlands, tea estates, waterfalls and one of the world's great scenic rail journeys.",
+    "highlights": [
+      "Tea plantation & factory",
+      "Nuwara Eliya",
+      "Scenic train",
+      "Nine Arch Bridge",
+      "Little Adam's Peak",
+      "Mountain viewpoints"
+    ],
+    "inclusions": [
+      "Private transport",
+      "Driver-guide",
+      "4 nights breakfast accommodation",
+      "Tea estate visit",
+      "Scenic train segment subject to availability"
+    ],
+    "exclusions": [
+      "Flights",
+      "Entrance fees",
+      "Meals not stated",
+      "Travel insurance",
+      "Personal expenses"
+    ],
+    "route": [
+      "Kandy",
+      "Nuwara Eliya",
+      "Tea Country",
+      "Ella",
+      "South Coast"
+    ],
+    "days": [
+      [
+        "01",
+        "Kandy → Nuwara Eliya",
+        "Climb into the central highlands with waterfall and tea-country stops along the way.",
+        "newal.jpeg"
+      ],
+      [
+        "02",
+        "Tea country experience",
+        "Visit a working tea estate and factory, learn about Ceylon tea and enjoy the cool hill-country atmosphere.",
+        "tea.jpeg"
+      ],
+      [
+        "03",
+        "Nuwara Eliya → Ella by train",
+        "Board the scenic train and watch tea-covered valleys and mountain landscapes unfold.",
+        "ella.jpg"
+      ],
+      [
+        "04",
+        "Ella discovery",
+        "Walk to Nine Arch Bridge and choose Little Adam's Peak or a relaxed afternoon in town.",
+        "ad.jpeg"
+      ],
+      [
+        "05",
+        "Ella → South Coast",
+        "Descend from the mountains toward the tropical south with scenic stops en route.",
+        "sou.jpeg"
+      ]
+    ]
+  },
+  {
+    "slug": "wild-sri-lanka-safari",
+    "title": "Wild Sri Lanka Safari",
+    "duration": "7 Days / 6 Nights",
+    "price": "From US$ 820",
+    "category": "Wildlife",
+    "hero": "safari.jpg",
+    "description": "An island journey designed around wildlife, combining the Cultural Triangle and hill country with a dedicated Yala safari experience.",
+    "highlights": [
+      "Cultural Triangle",
+      "Sigiriya",
+      "Kandy",
+      "Ella",
+      "Yala National Park",
+      "Elephant & birdlife encounters"
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle",
+      "Driver-guide",
+      "6 nights breakfast accommodation",
+      "Safari jeep",
+      "Airport transfers"
+    ],
+    "exclusions": [
+      "International flights",
+      "Park and entrance fees unless specified",
+      "Meals not listed",
+      "Travel insurance",
+      "Personal expenses"
+    ],
+    "route": [
+      "Colombo",
+      "Sigiriya",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "South Coast / Airport"
+    ],
+    "days": [
+      [
+        "01",
+        "Colombo → Sigiriya",
+        "Travel inland with a Dambulla stop and settle into the jungle landscape around Sigiriya.",
+        "sigiriya.jpeg"
+      ],
+      [
+        "02",
+        "Sigiriya & wildlife",
+        "Climb Sigiriya and enjoy an optional wildlife experience according to seasonal conditions.",
+        "wild.jpeg"
+      ],
+      [
+        "03",
+        "Sigiriya → Kandy",
+        "Continue to Kandy and explore its sacred temple district.",
+        "kandy.jpg"
+      ],
+      [
+        "04",
+        "Kandy → Ella",
+        "Ride the scenic hill-country railway into the mountains.",
+        "ellviw.jpeg"
+      ],
+      [
+        "05",
+        "Ella → Yala",
+        "Enjoy Ella in the morning before descending toward the national park region.",
+        "ella.jpg"
+      ],
+      [
+        "06",
+        "Yala safari day",
+        "Set out by safari jeep in search of elephants, leopards and abundant birdlife.",
+        "safari.jpg"
+      ],
+      [
+        "07",
+        "Yala → South Coast / Airport",
+        "Continue toward the coast and transfer to the airport according to your flight schedule.",
+        "galle.jpg"
+      ]
+    ]
+  },
+  {
+    "slug": "southern-coast-beaches",
+    "title": "Southern Coast & Beach Retreat",
+    "duration": "6 Days / 5 Nights",
+    "price": "From US$ 650",
+    "category": "Beaches",
+    "hero": "galle.jpg",
+    "description": "A relaxed private escape along Sri Lanka's tropical south, combining Galle's heritage with golden beaches, ocean sunsets and free time.",
+    "highlights": [
+      "Galle Fort",
+      "Unawatuna",
+      "Mirissa",
+      "Beach time",
+      "Coastal cuisine",
+      "Optional whale watching"
+    ],
+    "inclusions": [
+      "Private coastal transport",
+      "Driver-guide",
+      "5 nights breakfast accommodation",
+      "Airport transfers",
+      "Galle Fort sightseeing"
+    ],
+    "exclusions": [
+      "Flights",
+      "Water sports",
+      "Optional whale watching",
+      "Meals not stated",
+      "Travel insurance",
+      "Personal expenses"
+    ],
+    "route": [
+      "Colombo / Airport",
+      "Galle",
+      "Unawatuna",
+      "Mirissa",
+      "Bentota",
+      "Airport"
+    ],
+    "days": [
+      [
+        "01",
+        "Airport → Galle",
+        "Meet your driver and travel south to historic Galle and the Indian Ocean coast.",
+        "walls.jpeg"
+      ],
+      [
+        "02",
+        "Galle Fort & coast",
+        "Explore the fort's ramparts, lanes, cafés and boutiques before sunset.",
+        "caff.jpeg"
+      ],
+      [
+        "03",
+        "Galle → Mirissa",
+        "Follow the coast south with time to relax on the beach.",
+        "beac.jpeg"
+      ],
+      [
+        "04",
+        "Mirissa at leisure",
+        "Enjoy a free day for swimming, cafés and optional seasonal whale watching.",
+        "whale.jpeg"
+      ],
+      [
+        "05",
+        "Mirissa → Bentota",
+        "Travel north along the coast with optional lagoon and village experiences.",
+        "aug.jpeg"
+      ],
+      [
+        "06",
+        "Bentota → Airport",
+        "Enjoy a final beach morning before your private airport transfer.",
+        "airp.jpg"
+      ]
+    ]
+  },
+  {
+    "slug": "grand-sri-lanka",
+    "title": "Grand Sri Lanka Private Journey",
+    "duration": "12 Days / 11 Nights",
+    "price": "From US$ 1,390",
+    "category": "Signature Journey",
+    "hero": "beac.jpeg",
+    "description": "Our signature island circuit: ancient heritage, tea country, Ella's famous railway, wildlife and the southern coast in one seamless private journey.",
+    "highlights": [
+      "Cultural Triangle",
+      "Polonnaruwa",
+      "Kandy",
+      "Tea country",
+      "Ella train",
+      "Yala safari",
+      "Galle Fort",
+      "South Coast"
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle",
+      "English-speaking driver-guide",
+      "11 nights breakfast accommodation",
+      "Airport transfers",
+      "Scenic train segment subject to availability",
+      "Safari jeep"
+    ],
+    "exclusions": [
+      "International flights",
+      "Entrance fees unless specified",
+      "Lunches and dinners",
+      "Travel insurance",
+      "Personal expenses and gratuities"
+    ],
+    "route": [
+      "Colombo",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Yala",
+      "Galle",
+      "Colombo / Airport"
+    ],
+    "days": [
+      [
+        "01",
+        "Arrival → Colombo / Negombo",
+        "Warm airport welcome and a gentle first evening beside the coast.",
+        "negoair.jpeg"
+      ],
+      [
+        "02",
+        "Colombo → Sigiriya",
+        "Travel north to the Cultural Triangle with a Dambulla stop.",
+        "sigiriya.jpeg"
+      ],
+      [
+        "03",
+        "Sigiriya → Polonnaruwa",
+        "Enjoy Sigiriya early, then explore the ancient royal city of Polonnaruwa.",
+        "pom.jpeg"
+      ],
+      [
+        "04",
+        "Sigiriya → Kandy",
+        "Journey south through the cultural heartland to Kandy.",
+        "kandy.jpg"
+      ],
+      [
+        "05",
+        "Kandy heritage",
+        "Visit the Temple of the Sacred Tooth, Kandy Lake and botanical gardens.",
+        "klagay.jpeg"
+      ],
+      [
+        "06",
+        "Kandy → Nuwara Eliya",
+        "Climb into tea country with plantation and waterfall stops.",
+        "newal.jpeg"
+      ],
+      [
+        "07",
+        "Nuwara Eliya → Ella",
+        "Take the celebrated hill-country train through tea estates and mountain valleys.",
+        "ella.jpg"
+      ],
+      [
+        "08",
+        "Ella discovery",
+        "Nine Arch Bridge, Little Adam's Peak and a relaxed mountain evening.",
+        "ellviw.jpeg"
+      ],
+      [
+        "09",
+        "Ella → Yala",
+        "Descend through the south-east toward the national park.",
+        "Park-1.jpg"
+      ],
+      [
+        "10",
+        "Yala safari",
+        "A dedicated wildlife day with safari options according to park conditions.",
+        "safari.jpg"
+      ],
+      [
+        "11",
+        "Yala → Galle / South Coast",
+        "Continue to the coast and explore historic Galle Fort.",
+        "g2.jpeg"
+      ],
+      [
+        "12",
+        "South Coast → Airport",
+        "Final beach moments and private transfer to the airport.",
+        "airp.jpg"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+:root{--ink:#123b3b;--deep:#082e31;--gold:#d7a84a;--cream:#f7f3ea;--white:#fff;--muted:#647575;--shadow:0 18px 50px rgba(8,46,49,.12)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:#fff;line-height:1.65}img,video{max-width:100%;display:block}a{color:inherit;text-decoration:none}.site-header{position:fixed;z-index:20;top:0;left:0;right:0;display:flex;align-items:center;justify-content:space-between;padding:16px 5vw;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.58),transparent);transition:.3s}.site-header.scrolled{background:rgba(8,46,49,.96);box-shadow:0 8px 25px #0002}.brand{display:flex;align-items:center;gap:10px;font-size:1.05rem;font-weight:500;letter-spacing:.02em}.brand small{display:block;font-size:.55rem;letter-spacing:.25em;opacity:.8}.brand-mark{display:grid;place-items:center;width:40px;height:40px;border:1px solid #fff;border-radius:50%;font-family:Georgia,serif;font-size:1.4rem}.nav{display:flex;gap:25px;font-size:.9rem}.nav a{opacity:.9}.nav a:hover{color:#ffe2a0}.menu-toggle{display:none;border:0;background:none;color:#fff;font-size:1.6rem}.hero{height:92vh;min-height:620px;position:relative;overflow:hidden;background:var(--deep)}.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,28,30,.78),rgba(3,28,30,.18)),linear-gradient(0deg,rgba(3,28,30,.35),transparent 50%)}.hero-content{position:relative;z-index:1;color:#fff;max-width:760px;padding:180px 8vw 80px}.eyebrow{font-size:.75rem;letter-spacing:.24em;font-weight:800;color:var(--gold);margin:0 0 14px}.hero h1{font:600 clamp(3.3rem,8vw,7rem)/.92 Georgia,serif;margin:0 0 25px}.hero h1 em{color:#f3d28a;font-style:italic}.hero-content>p:not(.eyebrow){font-size:1.15rem;max-width:620px;opacity:.92}.hero-actions{display:flex;gap:14px;margin-top:30px}.btn{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;padding:13px 24px;font-weight:800;border:1px solid transparent;transition:.25s}.btn-primary{background:var(--gold);color:#102f30}.btn-light{background:#fff;color:var(--ink)}.btn:hover{transform:translateY(-2px);box-shadow:0 10px 25px #0002}.btn-whatsapp{background:#25d366;color:#fff}.trust-strip{display:grid;grid-template-columns:repeat(4,1fr);background:var(--deep);color:#fff;padding:25px 8vw;text-align:center}.trust-strip strong{display:block;font:600 1.45rem Georgia,serif;color:#f1cf88}.trust-strip span{font-size:.78rem;opacity:.75}.section{padding:100px 8vw}.section-alt{background:var(--cream)}.about{display:grid;grid-template-columns:1fr 1fr;gap:8vw;align-items:center}.section-image img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px;box-shadow:var(--shadow)}.section-copy h2,.section-heading h2{font:600 clamp(2.4rem,5vw,4.2rem)/1.05 Georgia,serif;margin:0 0 25px}.section-copy h2 span,.section-heading h2 span{color:#b68427;font-style:italic}.section-copy p{color:var(--muted);max-width:650px}.text-link{font-weight:800;border-bottom:1px solid var(--gold);padding-bottom:5px;display:inline-block;margin-top:12px}.section-heading{text-align:center;max-width:750px;margin:0 auto 50px}.section-heading>p:last-child{color:var(--muted)}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.card{background:#fff;padding:30px;border-radius:10px;box-shadow:0 8px 30px #0b35331a}.card-icon{font-size:2rem}.card h3{font:600 1.35rem Georgia,serif}.card p{color:var(--muted);font-size:.92rem}.destination-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:16px}.destination-grid article{position:relative;min-height:310px;overflow:hidden;border-radius:8px;grid-column:span 2}.destination-grid article:nth-child(4),.destination-grid article:nth-child(5){grid-column:span 3}.destination-grid img{width:100%;height:100%;object-fit:cover;transition:.5s}.destination-grid article:hover img{transform:scale(1.06)}.destination-grid article>div{position:absolute;inset:auto 0 0;padding:60px 24px 22px;color:#fff;background:linear-gradient(transparent,#061f21dd)}.destination-grid h3{font:600 2rem Georgia,serif;margin:0}.destination-grid p{margin:0;opacity:.85}.video-frame{max-width:1050px;margin:auto;border-radius:10px;overflow:hidden;box-shadow:var(--shadow);background:#000}.video-frame video{width:100%}.gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.gallery img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:5px}.reviews{padding:100px 8vw}.review-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.review-grid blockquote{margin:0;background:var(--cream);padding:30px;border-radius:8px;font:1.1rem/1.55 Georgia,serif}.review-grid cite{display:block;margin-top:22px;font:700 .8rem system-ui;color:var(--muted)}.contact{padding:80px 8vw;background:var(--deep);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:40px}.contact h2{font:600 clamp(2.2rem,4vw,4rem)/1.05 Georgia,serif;margin:0 0 15px}.contact p:not(.eyebrow){max-width:650px;opacity:.8}.contact-actions{display:flex;gap:12px;flex-wrap:wrap}footer{background:#061f21;color:#fff;padding:45px 8vw;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}footer p{opacity:.65;font-size:.82rem}.floating-whatsapp{position:fixed;right:20px;bottom:20px;z-index:15;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:#25d366;color:#fff;font-size:1.8rem;box-shadow:0 10px 30px #0004}.floating-whatsapp:hover{transform:scale(1.06)}
+@media(max-width:900px){.nav{display:none}.menu-toggle{display:block}.nav.open{position:absolute;display:flex;flex-direction:column;top:70px;left:0;right:0;background:var(--deep);padding:20px 8vw}.hero-content{padding-left:7vw}.about{grid-template-columns:1fr}.cards{grid-template-columns:repeat(2,1fr)}.trust-strip{grid-template-columns:repeat(2,1fr);gap:20px}.review-grid{grid-template-columns:1fr}.destination-grid{grid-template-columns:1fr 1fr}.destination-grid article,.destination-grid article:nth-child(4),.destination-grid article:nth-child(5){grid-column:span 1}.contact{flex-direction:column;align-items:flex-start}}
+@media(max-width:600px){.section,.reviews{padding:70px 6vw}.hero{min-height:680px}.hero-content{padding:170px 6vw 50px}.hero h1{font-size:3.3rem}.hero-content>p:not(.eyebrow){font-size:1rem}.hero-actions{flex-direction:column;align-items:stretch}.trust-strip{padding:25px 6vw}.cards,.destination-grid,.gallery{grid-template-columns:1fr}.destination-grid article,.destination-grid article:nth-child(4),.destination-grid article:nth-child(5){grid-column:span 1}.gallery img{aspect-ratio:4/3}.contact{padding:65px 6vw}.brand{font-size:.9rem}}
+
+.reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}.reveal.visible{opacity:1;transform:none}
+
+/* Home — premium inclusions section */
+.inclusions-section{background:#fbfaf6;position:relative;overflow:hidden}
+.inclusions-section:before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;right:-190px;top:30px;background:#d7a84a12;pointer-events:none}
+.inclusions-grid{position:relative;display:grid;grid-template-columns:repeat(3,1fr);gap:18px;max-width:1180px;margin:0 auto}
+.inclusion-card{position:relative;background:#fff;border:1px solid #e8e2d5;border-radius:12px;padding:30px 28px 27px;min-height:245px;box-shadow:0 12px 35px rgba(8,46,49,.055);transition:transform .25s ease,box-shadow .25s ease}
+.inclusion-card:hover{transform:translateY(-5px);box-shadow:0 20px 45px rgba(8,46,49,.11)}
+.inclusion-number{position:absolute;right:22px;top:20px;color:#c8a45b;font:600 12px Georgia,serif;letter-spacing:.08em}
+.inclusion-icon{font-size:2rem;margin-bottom:20px}
+.inclusion-card h3{font:600 1.35rem Georgia,serif;margin:0 0 10px;color:var(--ink)}
+.inclusion-card p{margin:0;color:var(--muted);font-size:.91rem;line-height:1.7}
+.inclusions-note{position:relative;max-width:1180px;margin:25px auto 0;padding:20px 22px;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:16px;background:#123b3b;color:#fff;border-radius:10px}
+.inclusions-note>span{color:#f1cf88;font-size:1.25rem}
+.inclusions-note p{margin:0;color:#e7eeeb;font-size:.88rem;line-height:1.6}
+.inclusions-note strong{color:#fff}
+.inclusions-note a{color:#f1cf88;font-weight:800;white-space:nowrap}
+@media(max-width:900px){.inclusions-grid{grid-template-columns:repeat(2,1fr)}.inclusions-note{grid-template-columns:auto 1fr}}
+@media(max-width:600px){.inclusions-grid{grid-template-columns:1fr}.inclusions-note{grid-template-columns:auto 1fr}.inclusions-note a{grid-column:2}}
+
+/* Premium destinations section */
+.destinations-premium{background:#f7f5ef;position:relative;overflow:hidden}
+.destinations-premium:before{content:"";position:absolute;left:-180px;top:80px;width:430px;height:430px;border-radius:50%;background:#c39a4b0d;pointer-events:none}
+.destinations-heading{max-width:820px;margin-bottom:38px;position:relative}
+.destinations-heading>p:last-child{max-width:720px}
+.destination-grid-premium{position:relative;max-width:1180px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);grid-auto-rows:320px;gap:18px}
+.destination-card{position:relative;overflow:hidden;border-radius:14px;background:#173d3d;box-shadow:0 18px 45px rgba(17,55,56,.12);isolation:isolate}
+.destination-card-large{grid-column:span 2}
+.destination-card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .7s ease}
+.destination-card:hover img{transform:scale(1.06)}
+.destination-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(8,33,34,.03) 20%,rgba(5,27,28,.9) 100%);z-index:1}
+.destination-content{position:absolute;left:25px;right:25px;bottom:24px;color:#fff;z-index:2}
+.destination-tag{display:inline-block;color:#f0cf8c;font-size:10px;font-weight:900;letter-spacing:.18em;margin-bottom:8px}
+.destination-content h3{font:500 31px/1.05 Georgia,serif;margin:0 0 8px;color:#fff}
+.destination-card-large .destination-content h3{font-size:40px}
+.destination-content p{font-size:13px;line-height:1.55;color:#edf1ed;max-width:480px;margin:0 0 15px}
+.destination-btn{display:inline-flex;align-items:center;gap:9px;color:#fff;text-decoration:none;font-size:11px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid #f0cf8c;padding-bottom:5px}
+.destination-btn span{color:#f0cf8c;font-size:16px;transition:transform .2s}
+.destination-btn:hover span{transform:translateX(4px)}
+.destinations-cta{position:relative;max-width:1180px;margin:32px auto 0;padding:24px 28px;background:#123b3b;border-radius:12px;display:flex;align-items:center;justify-content:space-between;gap:20px;color:#fff}
+.destinations-cta p{margin:0;font:500 20px Georgia,serif}
+.destinations-cta .btn{white-space:nowrap}
+@media(max-width:900px){.destination-grid-premium{grid-template-columns:repeat(2,1fr)}.destination-card-large{grid-column:span 2}.destinations-cta{flex-direction:column;align-items:flex-start}}
+@media(max-width:600px){.destination-grid-premium{grid-template-columns:1fr;grid-auto-rows:310px}.destination-card-large{grid-column:auto}.destination-card-large .destination-content h3{font-size:32px}.destinations-cta{padding:22px}.destinations-cta p{font-size:18px}.destinations-cta .btn{width:100%;text-align:center}}
+
+/* Official Neela's Tours logo */
+.brand-logo{display:flex;align-items:center;background:transparent;border-radius:9px;padding:3px 9px;box-shadow:none;overflow:hidden}
+.brand-logo img{display:block;width:112px;height:58px;object-fit:contain}
+.footer-logo{box-shadow:none}
+@media(max-width:600px){.brand-logo img{width:96px;height:50px}}
+
+/* Footer trust links */
+.site-footer{background:#0b2425;color:#f7f5ef;margin-top:0}
+.footer-main{max-width:1180px;margin:0 auto;padding:42px 28px 30px;display:grid;grid-template-columns:1fr 1.25fr;gap:40px;align-items:center}
+.footer-brand p{margin:10px 0 0;color:#bfcac6;font-size:.86rem;line-height:1.6}
+.footer-links{display:flex;align-items:center;justify-content:flex-end;gap:34px}
+.footer-label{display:block;color:#d8bd78;font-size:10px;font-weight:800;letter-spacing:.16em;margin-bottom:8px}
+.footer-eta a{color:#fff;text-decoration:none;font-size:.9rem;font-weight:700}
+.footer-eta a:hover{text-decoration:underline}
+.tripadvisor-link{display:flex;align-items:center;gap:12px;text-decoration:none;color:#fff}
+.tripadvisor-badge{width:46px;height:46px;object-fit:contain;display:block;flex:0 0 46px}
+.tripadvisor-text{display:flex;flex-direction:column;gap:2px}
+.tripadvisor-title{font-weight:800;font-size:.9rem}
+.tripadvisor-stars{font-size:.82rem;letter-spacing:2px;color:#d8bd78}
+.tripadvisor-reviews{font-size:.74rem;color:#bfcac6}
+.tripadvisor-link:hover .tripadvisor-reviews{text-decoration:underline}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.1);max-width:1180px;margin:0 auto;padding:16px 28px}
+.footer-bottom p{margin:0;color:#8fa09b;font-size:.74rem}
+@media(max-width:800px){
+  .footer-main{grid-template-columns:1fr;padding:34px 22px 24px;gap:26px}
+  .footer-links{justify-content:flex-start;flex-wrap:wrap;gap:24px}
+  .footer-bottom{padding:14px 22px}
+}
+@media(max-width:520px){
+  .footer-links{flex-direction:column;align-items:flex-start}
+}
